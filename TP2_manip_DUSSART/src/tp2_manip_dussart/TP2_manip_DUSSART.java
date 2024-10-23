@@ -49,6 +49,7 @@ public class TP2_manip_DUSSART {
         for (int i = 0; i < tabMoussaka.length; i++) {
             System.out.println("Moussaka " + i + " a " + tabMoussaka[i].nbCalories + " calories.");
         }
+ 
     }
 }
 
