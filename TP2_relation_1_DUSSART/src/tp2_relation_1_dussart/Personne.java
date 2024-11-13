@@ -21,9 +21,7 @@ class Personne {
         this.nbVoitures = 0;
     }
 
-    Personne(String bobby, String sixkiller) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
+
 
     public String getNomComplet() {
         return prenom + " " + nom;
